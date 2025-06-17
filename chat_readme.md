@@ -25,7 +25,7 @@ A simple real-time chat app built with Flutter using **GetX** for state manageme
 ## 🔗 WebSocket
 
 ```dart
-static const String websocketUrl = "wss://api.picrez.com";
+static const String websocketUrl = "";
 ````
 
 ---
