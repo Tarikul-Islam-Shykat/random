@@ -62,9 +62,4 @@ web_socket_channel: ^2.3.0
 
 MIT License
 
-```
 
----
-
-Let me know if you’d like to add images, sample chat UI, or API details.
-```
