@@ -1,8 +1,4 @@
-Sure! Here's a **short and concise `README.md`** version for your GitHub repository:
 
----
-
-````markdown
 # 💬 Flutter Chat App (GetX + WebSocket)
 
 A simple real-time chat app built with Flutter using **GetX** for state management and **WebSocket** for live messaging.
@@ -60,7 +56,7 @@ get: ^4.6.5
 web_socket_channel: ^2.3.0
 ```
 
----
+
 
 ## 📄 License
 
